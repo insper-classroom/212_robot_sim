@@ -19,7 +19,11 @@ Questões que fez:____________
 
 Observações de avaliações nesta disciplina:
 
-* Inicie a prova no Blackboard para a ferramenta de Proctoring iniciar. Só finalize o Blackboard quando enviar a prova via Github classroom
+* Clone o repositório da prova dentro de `~/catkin_ws/src` se estiver trabalhando no Linux.
+* Você poderá dar quantos `git push` quiser no repositório, apenas o último será considerado.
+* Antes de finalizar a prova verifique que os arquivos enviados ao github estão na sua última versão. É sua responsabilidade garantir isso.
+* Inicie a prova no Blackboard para a ferramenta de Proctoring iniciar.
+* Só finalize a prova no Blackboard após enviar a prova via Github classroom.
 * Durante esta prova vamos registrar somente a tela, não a câmera nem microfone
 * Ponha o nome no enunciado da prova no Github
 * Tenha os repositórios https://github.com/Insper/robot21.2/ ,  https://github.com/arnaldojr/my_simulation e https://github.com/arnaldojr/mybot_description.git  atualizados em seu `catkin_ws/src` .
@@ -86,7 +90,7 @@ BOLINHAS vencem. Posição: `(2,0), (1,1), (0,2)`
 
 Trabalhe no arquivo `q1/q1.py`. Este exercício **não precisa** de ROS. Portanto pode ser feito até em Mac ou Windows
 
-Você vai notar que este programa roda o vídeo `jogovelha.mp4`. Baixe o vídeo [neste endereço](https://github.com/Insper/robot20/raw/master/media/jogovelha.mp4)
+Você vai notar que este programa roda o vídeo `jogovelha.mp4`. Baixe o vídeo [neste endereço](https://github.com/Insper/robot20/raw/master/media/jogovelha.mp4),  dentro da pasta `q1/`.
 
 
 #### O que você deve fazer:
